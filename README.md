@@ -58,6 +58,13 @@ Le code de ces projets reste privé.
 | **A-Maze-ing** | Python | Algorithmique | Générer un labyrinthe à partir d'un fichier de configuration |
 | **Pac-Man** | Python, Pygame | Jeu, en binôme | Un Pac-Man jouable, sur les labyrinthes d'A-Maze-ing |
 
+## 🎮 Game jams
+
+| Jeu | Jam | En bref |
+| --- | --- | --- |
+| **Masquarade** | Global Game Jam 2026, thème « Masque » | Un bal masqué entre quatre duchés, où l'on joue un paysan caché sous un masque. En équipe de quatre, sur GameMaker. |
+| **[Sueurs chaudes](https://masalvad.itch.io/sueurs-chaudes)** | Jam Academy 2026 | Un robot mécanicien rouillé dans une usine steampunk : surveiller la pression des vannes, chasser les araignées et garder la chaudière chaude. En équipe de quatre, sur GameMaker. |
+
 ## ⚙️ Comment je travaille
 
 - **À 42, tout à la main.** Du C et du Python, sans assistant : libft, ft_printf, get_next_line, push_swap, puis les
