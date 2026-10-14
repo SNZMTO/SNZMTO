@@ -36,6 +36,28 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
   </tr>
 </table>
 
+## 🏫 À 42
+
+Le code de ces projets reste privé.
+
+| Projet | Langage | Domaine | En bref |
+| --- | --- | --- | --- |
+| **libft** | C | Bibliothèque | Réécrire les fonctions de base de la libc : chaînes, mémoire, listes chaînées |
+| **ft_printf** | C | Fonctions variadiques | Réimplémenter `printf` et ses conversions |
+| **get_next_line** | C | Entrées et sorties | Lire un fichier ligne par ligne, avec un tampon et un état gardé entre les appels |
+| **push_swap** | C | Algorithmique | Trier une pile avec un jeu d'opérations limité, en un minimum de coups |
+| **Growing Code** | Python | Bases | Variables, fonctions, boucles et récursion |
+| **Garden Guardian** | Python | Erreurs | Lever, attraper et définir ses propres exceptions |
+| **Code Cultivation** | Python | Programmation objet | Classes, héritage, encapsulation |
+| **Data Quest** | Python | Structures de données | Listes, dictionnaires, ensembles, générateurs |
+| **Data Archivist** | Python | Fichiers | Lire et écrire des fichiers, gestionnaires de contexte |
+| **The Codex** | Python | Modules et paquets | Organiser un projet en paquets, gérer les imports |
+| **Code Nexus** | Python | Abstraction | Classes abstraites et polymorphisme, autour d'un pipeline de données |
+| **Cosmic Data** | Python | Validation de données | Modèles Pydantic et énumérations |
+| **The Matrix** | Python | Environnement | Environnements virtuels, variables d'environnement, dépendances |
+| **A-Maze-ing** | Python | Algorithmique | Générer un labyrinthe à partir d'un fichier de configuration |
+| **Pac-Man** | Python, Pygame | Jeu, en binôme | Un Pac-Man jouable, sur les labyrinthes d'A-Maze-ing |
+
 ## ⚙️ Comment je travaille
 
 - **À 42, tout à la main.** Du C et du Python, sans assistant : libft, ft_printf, get_next_line, push_swap, puis les
