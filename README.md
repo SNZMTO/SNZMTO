@@ -90,6 +90,5 @@ Le code de ces projets reste privé.
 
 ## 🌍 Hors code
 
-- **Voyager** : c'est ce que j'aime le plus.
-- **Lire** de la fantasy et de la science-fiction. Mes trois sagas préférées : *Dungeon Crawler Carl*, *Red Rising* et
-  *Shadow Slave*.
+J'adore voyager, et je lis beaucoup de fantasy et de science-fiction. Mes trois sagas préférées : *Dungeon Crawler Carl*,
+*Red Rising* et *Shadow Slave*.
