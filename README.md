@@ -1,4 +1,4 @@
-# Salut, moi c'est Mateo 👋
+# Bienvenue, moi c'est Mateo 👋
 
 Étudiant à **42 Marseille**, j'aime construire des outils qui tournent pour de vrai.
 Je cherche une **alternance en développement**, côté data, IA ou full-stack.
