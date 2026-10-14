@@ -81,7 +81,8 @@ Le code de ces projets reste privé.
   <img src="https://img.shields.io/badge/Claude%20Code-2A1E17?style=flat-square&logo=claude&logoColor=E2A72E" alt="Claude Code">
 </p>
 
-## 📚 Hors code
+## 🌍 Hors code
 
-Grand lecteur de fantasy et de science-fiction. Mes trois sagas préférées : *Dungeon Crawler Carl*, *Red Rising* et
-*Shadow Slave*.
+- **Voyager** : c'est ce que j'aime le plus.
+- **Lire** de la fantasy et de la science-fiction. Mes trois sagas préférées : *Dungeon Crawler Carl*, *Red Rising* et
+  *Shadow Slave*.
