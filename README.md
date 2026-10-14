@@ -1,6 +1,6 @@
 # Bienvenue, moi c'est Mateo 👋
 
-Étudiant à **42 Marseille**, j'aime construire des outils qui tournent pour de vrai.
+Étudiant à **42 Marseille**, passé par la vente avant le code : j'aime autant expliquer un outil que l'écrire.
 Je cherche une **alternance en développement**, côté data, IA ou full-stack.
 
 <p>
@@ -14,8 +14,8 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
   alternance, le titre RNCP 7 « Expert en architecture informatique », option **Architecture de bases de données et data**
   (niveau Bac+5).
 - **Mon rythme** : deux semaines en entreprise, une semaine à l'école.
-- **Ce que je cherche** : une équipe où je construis des outils qui servent vraiment, et avec qui j'aurais envie de continuer
-  après l'alternance.
+- **Ce que je cherche** : une petite équipe plutôt qu'un grand groupe, où ce que je livre est utilisé dès les premières
+  semaines, et avec qui j'aurais envie de continuer après l'alternance.
 
 ## 🛠️ Mes projets
 
