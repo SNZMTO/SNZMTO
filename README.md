@@ -1,6 +1,6 @@
 # Salut, moi c'est Mateo 👋
 
-Étudiant à **42 Marseille**, je construis des outils qui tournent pour de vrai, et je les construis avec l'IA.
+Étudiant à **42 Marseille**, j'aime construire des outils qui tournent pour de vrai.
 Je cherche une **alternance en développement**, côté data, IA ou full-stack.
 
 <p>
@@ -31,16 +31,18 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
       <a href="https://github.com/SNZMTO/DIciELa"><img src="images/diciela.webp" alt="DIciELa : la Chimère sur le panneau de bois du jeu"></a>
       <h3><a href="https://github.com/SNZMTO/DIciELa">DIciELa</a></h3>
       Un jeu de chaînes de production, fantasy et cozy, en prototype sous Unity. Une simulation en C# pur vérifiée par
-      540 tests, et un cadre Claude Code complet : règles, procédures, garde-fou, décisions numérotées.
+      540 tests, et tout un cadre pour garder le projet cohérent : règles, procédures, garde-fou, décisions numérotées.
     </td>
   </tr>
 </table>
 
-## 🤖 Comment je travaille
+## ⚙️ Comment je travaille
 
-Je code avec **Claude Code**, et c'est moi qui tiens le cadre : des règles écrites, des tests qui vérifient l'architecture,
-des décisions notées avec leur raison, et une vérification avant chaque mise en ligne. Chaque projet explique en détail ce
-que j'ai décidé et ce que Claude a écrit.
+- **À 42, tout à la main.** Du C et du Python, sans assistant : libft, ft_printf, get_next_line, push_swap, puis les
+  modules Python. Chaque projet est corrigé par d'autres étudiants, qui me font expliquer mon code.
+- **Sur mes projets perso, avec un assistant de code.** Je conçois, je découpe le code en couches, j'écris les règles et les
+  tests qui les verrouillent, et j'utilise Claude Code pour écrire plus vite. Je relis, j'essaie sur de vrais appareils, et
+  je tranche. Chaque projet dit qui a fait quoi.
 
 ## 🧰 Ce que j'utilise
 
