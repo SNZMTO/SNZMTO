@@ -11,8 +11,8 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
 ## 🎓 En deux mots
 
 - **Ma formation** : le tronc commun du cursus 42 Next, que j'aurai fini pour mon entrée en alternance. Ensuite, en
-  alternance, le titre RNCP 7 « Expert en architecture informatique », option **Architecture de bases de données et data**
-  (niveau Bac+5).
+  alternance, le titre RNCP 6 « Concepteur développeur de solutions informatiques », option **Développement d'application
+  web et mobile** (niveau Bac+3).
 - **Mon rythme** : deux semaines en entreprise, une semaine à l'école.
 - **Ce que je cherche** : une petite équipe plutôt qu'un grand groupe, où ce que je livre est utilisé dès les premières
   semaines, et avec qui j'aurais envie de continuer après l'alternance.
@@ -25,7 +25,8 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
       <a href="https://github.com/SNZMTO/honear"><img src="images/honear.svg" alt="Honear : la platine de l'accueil sur le meuble en noyer"></a>
       <h3><a href="https://github.com/SNZMTO/honear">Honear</a></h3>
       Un blind test multijoueur, en ligne sur <a href="https://honear.fr">honear.fr</a> : un écran pour la tablée, un
-      téléphone chacun. TypeScript strict, WebSocket, 523 tests, Docker durci, registre RGPD.
+      téléphone chacun. TypeScript strict, WebSocket, 538 tests, Docker durci, registre RGPD. Et son serveur MCP en
+      Python, <a href="https://mcp.honear.fr">mcp.honear.fr</a>, pour composer des playlists sur mesure depuis Claude.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/SNZMTO/DIciELa"><img src="images/diciela.webp" alt="DIciELa : la Chimère sur le panneau de bois du jeu"></a>
