@@ -1,19 +1,24 @@
 # Bienvenue, moi c'est Mateo 👋
 
 Étudiant à **42 Marseille**, passé par la vente avant le code : j'aime autant expliquer un outil que l'écrire.
-Je cherche une **alternance en développement**, côté data, IA ou full-stack.
+Je cherche une **alternance de développeur, full-stack ou IA**, **dès avril 2027, pour deux ans**.
 
 <p>
+  <a href="https://mateosan.fr"><img src="https://img.shields.io/badge/Portfolio%20et%20CV-mateosan.fr-E2A72E?style=flat-square&labelColor=2A1E17" alt="Portfolio et CV : mateosan.fr"></a>
   <a href="mailto:sanchezmateo@proton.me"><img src="https://img.shields.io/badge/E--mail-sanchezmateo%40proton.me-E2A72E?style=flat-square&logo=protonmail&logoColor=white&labelColor=2A1E17" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/mat%C3%A9o-sanchez-2607883a0"><img src="https://img.shields.io/badge/LinkedIn-Mat%C3%A9o%20Sanchez-1E6E78?style=flat-square&logo=linkedin&logoColor=white&labelColor=2A1E17" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mat%C3%A9o-sanchez-2607883a0"><img src="https://img.shields.io/badge/LinkedIn-Mateo%20Sanchez-1E6E78?style=flat-square&logo=linkedin&logoColor=white&labelColor=2A1E17" alt="LinkedIn"></a>
 </p>
+
+> **In English.** Student at 42 Marseille, looking for a two-year apprenticeship as a full-stack or AI developer, from April
+> 2027 (two weeks at work, one at school), around Aix-Marseille. Portfolio and CV: [mateosan.fr](https://mateosan.fr).
 
 ## 🎓 En deux mots
 
-- **Ma formation** : le tronc commun du cursus 42 Next, que j'aurai fini pour mon entrée en alternance. Ensuite, en
-  alternance, le titre RNCP 6 « Concepteur développeur de solutions informatiques », option **Développement d'application
-  web et mobile** (niveau Bac+3).
-- **Mon rythme** : deux semaines en entreprise, une semaine à l'école.
+- **Ma formation** : le tronc commun de 42, que j'aurai fini pour mon entrée en alternance. Ensuite, en alternance, le titre
+  RNCP 6 « Concepteur développeur de solutions informatiques » (RNCP 39783), option **Développement d'application web et
+  mobile** (niveau Bac+3).
+- **Mon rythme** : deux semaines en entreprise, une semaine à l'école, dès avril 2027 et pour deux ans.
+- **Où** : à Aix-Marseille, avec le permis B et une voiture.
 - **Ce que je cherche** : une petite équipe plutôt qu'un grand groupe, où ce que je livre est utilisé dès les premières
   semaines, et avec qui j'aurais envie de continuer après l'alternance.
 
@@ -25,25 +30,33 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
       <a href="https://github.com/SNZMTO/honear"><img src="images/honear.svg" alt="Honear : la platine de l'accueil sur le meuble en noyer"></a>
       <h3><a href="https://github.com/SNZMTO/honear">Honear</a></h3>
       Un blind test multijoueur, en ligne sur <a href="https://honear.fr">honear.fr</a> : un écran pour la tablée, un
-      téléphone chacun. TypeScript strict, WebSocket, 538 tests, Docker durci, registre RGPD. Et son serveur MCP en
-      Python, <a href="https://mcp.honear.fr">mcp.honear.fr</a>, pour composer des playlists sur mesure depuis Claude.
+      téléphone chacun. TypeScript strict, WebSocket, plus de 500 tests, Docker durci, registre RGPD. Et son
+      <a href="https://github.com/SNZMTO/honear-mcp">serveur MCP</a> en Python, <a href="https://mcp.honear.fr">mcp.honear.fr</a>,
+      pour composer des playlists sur mesure depuis Claude.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/SNZMTO/DIciELa"><img src="images/diciela.webp" alt="DIciELa : la Chimère sur le panneau de bois du jeu"></a>
       <h3><a href="https://github.com/SNZMTO/DIciELa">DIciELa</a></h3>
-      Un jeu de chaînes de production, fantasy et cozy, en prototype sous Unity. Une simulation en C# pur vérifiée par
+      Un jeu de chaînes de production, fantasy et cozy, en prototype sous Unity : une simulation en C# sans MonoBehaviour,
       540 tests, et tout un cadre pour garder le projet cohérent : règles, procédures, garde-fou, décisions numérotées.
     </td>
   </tr>
 </table>
 
+Et aussi :
+
+- **[homelab](https://github.com/SNZMTO/homelab)** : le journal du VPS qui héberge tout ça, durci pas à pas (SSH par clé,
+  pare-feu, fail2ban, Docker, Caddy et HTTPS, déploiement continu).
+- **[mateosan.fr](https://github.com/SNZMTO/mateosan.fr)** : ma vitrine, un établi en 3D par-dessus des pages HTML simples,
+  lisibles sans JavaScript.
+
 ## ⚙️ Comment je travaille
 
 - **À 42, tout à la main.** Du C et du Python, sans assistant : libft, ft_printf, get_next_line, push_swap, puis les
   modules Python. Chaque projet est corrigé par d'autres étudiants, qui me font expliquer mon code.
-- **Sur mes projets perso, avec un assistant de code.** Je conçois, je découpe le code en couches, j'écris les règles et les
-  tests qui les verrouillent, et j'utilise Claude Code pour écrire plus vite. Je relis, j'essaie sur de vrais appareils, et
-  je tranche. Chaque projet dit qui a fait quoi.
+- **Sur mes projets perso, avec Claude Code.** Il écrit l'essentiel du code et des tests ; moi, je conçois, je découpe en
+  couches, je fixe les règles que les tests vérifient, je tranche (souvent sur ses recommandations, et c'est noté dans les
+  décisions) et j'essaie sur de vrais appareils. Chaque projet le dit, et ses commits sont co-signés.
 - **Un cadre qui se lit.** Sur DIciELa, ce qui tient l'assistant d'une session à l'autre est dans le dépôt :
   [`CLAUDE.md`](https://github.com/SNZMTO/DIciELa/blob/main/CLAUDE.md), les règles, les procédures et le hook garde-fou de
   [`.claude/`](https://github.com/SNZMTO/DIciELa/tree/main/.claude), et
@@ -51,7 +64,9 @@ Je cherche une **alternance en développement**, côté data, IA ou full-stack.
 
 ## 🏫 À 42
 
-Le code de ces projets reste privé.
+J'y suis depuis novembre 2025. Le code de ces projets reste privé (je le montre volontiers en entretien) : c'est pourquoi
+mon activité publique sur GitHub commence en septembre 2026, avec mes projets perso. Je suis aussi ambassadeur de 42
+Marseille, sur les salons et aux présentations de l'école.
 
 <details>
 <summary><b>🐍 Python</b> · bases du langage, objet, données, paquets et environnement, algorithmique · 11 projets</summary>
@@ -100,7 +115,7 @@ Le code de ces projets reste privé.
 | Jeu | Jam | En bref |
 | --- | --- | --- |
 | **Masquarade** | Global Game Jam 2026, thème « Masque » | Un bal masqué entre quatre duchés, où l'on joue un paysan caché sous un masque. En équipe de quatre, sur GameMaker. |
-| **[Sueurs chaudes](https://masalvad.itch.io/sueurs-chaudes)** | Jam Academy 2026 | Un robot mécanicien rouillé dans une usine steampunk : surveiller la pression des vannes, chasser les araignées et garder la chaudière chaude. En équipe de quatre, sur GameMaker. |
+| **[Sueurs chaudes](https://masalvad.itch.io/sueurs-chaudes)** | Jam Academy 2026 | Un robot mécanicien rouillé dans une usine steampunk : surveiller la pression des vannes, chasser les araignées et garder la chaudière chaude. En équipe de quatre, sur GameMaker. Sélectionné par un jury de studios, dont CD Projekt ([la vidéo](https://www.youtube.com/watch?v=7yN_nlvvNGY)). |
 
 ## 🧰 Ce que j'utilise
 
@@ -110,7 +125,6 @@ Le code de ces projets reste privé.
   <img src="https://img.shields.io/badge/Python-2A1E17?style=flat-square&logo=python&logoColor=E2A72E" alt="Python">
   <img src="https://img.shields.io/badge/C-2A1E17?style=flat-square&logo=c&logoColor=E2A72E" alt="C">
   <img src="https://img.shields.io/badge/C%23%20%2F%20Unity-2A1E17?style=flat-square&logo=unity&logoColor=E2A72E" alt="C# et Unity">
-  <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20Supabase-2A1E17?style=flat-square&logo=supabase&logoColor=E2A72E" alt="PostgreSQL et Supabase">
   <img src="https://img.shields.io/badge/Docker-2A1E17?style=flat-square&logo=docker&logoColor=E2A72E" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-2A1E17?style=flat-square&logo=linux&logoColor=E2A72E" alt="Linux">
   <img src="https://img.shields.io/badge/Git-2A1E17?style=flat-square&logo=git&logoColor=E2A72E" alt="Git">
