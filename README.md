@@ -54,8 +54,8 @@ Et aussi :
 
 - **À 42, tout à la main.** Du C et du Python, sans assistant : libft, ft_printf, get_next_line, push_swap, puis les
   modules Python. Chaque projet est corrigé par d'autres étudiants, qui me font expliquer mon code.
-- **Sur mes projets perso, avec Claude Code.** Il écrit l'essentiel du code et des tests ; moi, je conçois, je découpe en
-  couches, je fixe les règles que les tests vérifient, je tranche (souvent sur ses recommandations, et c'est noté dans les
+- **Sur mes projets perso, avec Claude Code.** Il écrit l'essentiel du code et des tests ; moi, je conçois, je fixe les
+  règles que les tests vérifient, je tranche (souvent sur ses recommandations, et c'est noté dans les
   décisions) et j'essaie sur de vrais appareils. Chaque projet le dit, et ses commits sont co-signés.
 - **Un cadre qui se lit.** Sur DIciELa, ce qui tient l'assistant d'une session à l'autre est dans le dépôt :
   [`CLAUDE.md`](https://github.com/SNZMTO/DIciELa/blob/main/CLAUDE.md), les règles, les procédures et le hook garde-fou de
