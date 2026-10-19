@@ -38,7 +38,7 @@ de vrais logiciels, et je les mets en ligne.
       MCP officiel, Pydantic, Docker, plus de 450 tests.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/SNZMTO/honear"><img src="images/honear.webp" alt="Honear : la platine, le bac de playlists et les pochettes des joueurs"></a>
+      <a href="https://github.com/SNZMTO/honear"><img src="images/honear.svg" alt="Honear : la platine de l'accueil sur le meuble en noyer"></a>
       <h3><a href="https://github.com/SNZMTO/honear">honear</a></h3>
       Le blind test multijoueur qui joue ces listes, en ligne sur <a href="https://honear.fr">honear.fr</a> : un écran pour
       la tablée, un téléphone chacun. TypeScript strict, WebSocket, plus de 500 tests, Docker durci, registre RGPD.
