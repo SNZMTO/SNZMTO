@@ -1,9 +1,8 @@
 # Mateo Sanchez
 
-Étudiant à **42 Marseille**, je cherche une **alternance de développeur, full-stack ou IA, dès avril 2027, pour deux ans**
-(deux semaines en entreprise, une à l'école), à Aix-Marseille. En alternance, je préparerai le titre RNCP 6 « Concepteur
-développeur de solutions informatiques » (RNCP 39783, **niveau Bac+3**). Je construis des outils qui branchent Claude sur
-de vrais logiciels, et je les mets en ligne.
+Étudiant à **42 Marseille**, je cherche un **stage ou une alternance de développeur, full-stack ou IA, dès avril 2027**, à
+Aix-Marseille. Ensuite, je préparerai le titre RNCP 6 « Concepteur développeur de solutions informatiques » (RNCP 39783,
+**niveau Bac+3**). Je construis des outils qui branchent Claude sur de vrais logiciels, et je les mets en ligne.
 
 <p>
   <a href="https://mateosan.fr"><img src="https://img.shields.io/badge/Portfolio%20et%20CV-mateosan.fr-E2A72E?style=flat-square&labelColor=2A1E17" alt="Portfolio et CV : mateosan.fr"></a>
@@ -11,9 +10,9 @@ de vrais logiciels, et je les mets en ligne.
   <a href="https://www.linkedin.com/in/mat%C3%A9o-sanchez-2607883a0"><img src="https://img.shields.io/badge/LinkedIn-Mateo%20Sanchez-1E6E78?style=flat-square&logo=linkedin&logoColor=white&labelColor=2A1E17" alt="LinkedIn"></a>
 </p>
 
-> **In English.** Student at 42 Marseille, looking for a two-year apprenticeship as a full-stack or AI developer from
-> April 2027 (two weeks at work, one at school), around Aix-Marseille. I build tools that plug Claude into real software,
-> and I ship them. Portfolio and CV: [mateosan.fr](https://mateosan.fr).
+> **In English.** Student at 42 Marseille, looking for an internship or an apprenticeship as a full-stack or AI developer
+> from April 2027, around Aix-Marseille. I build tools that plug Claude into real software, and I ship them. Portfolio and
+> CV: [mateosan.fr](https://mateosan.fr).
 
 ## Ce que je sais faire, et où le voir
 
