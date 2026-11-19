@@ -50,7 +50,7 @@ le C# dans un cadre que j'ai posé ; [homelab](https://github.com/SNZMTO/homelab
 
 ## Comment je travaille avec Claude
 
-- **Claude Code écrit l'essentiel du code.** Les commits sont co-signés, et chaque dépôt le dit.
+- **Claude Code écrit l'essentiel du code.** Chaque dépôt le dit.
 - **Je conçois et je tranche** : le produit, l'architecture et les règles du code.
 - **J'essaie sur de vrais appareils** : sur Honear, plusieurs bugs ne se voyaient que sur iPhone.
 - **Le cadre est dans le dépôt** : ce qui tient l'assistant d'une session à l'autre (règles, procédures, garde-fou,

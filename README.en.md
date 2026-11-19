@@ -49,7 +49,7 @@ writes within a framework I set up; [homelab](https://github.com/SNZMTO/homelab)
 
 ## How I work with Claude
 
-- **Claude Code writes most of the code.** The commits are co-signed, and each repository says so.
+- **Claude Code writes most of the code.** Each repository says so.
 - **I design and I make the calls**: the product, the architecture and the rules of the code.
 - **I try things on real devices**: on Honear, several bugs only showed on iPhone.
 - **The framework is in the repository**: what keeps the assistant on track from one session to the next (rules, procedures,
