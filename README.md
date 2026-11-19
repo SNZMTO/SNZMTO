@@ -12,7 +12,7 @@ Aix-Marseille. Ensuite, je préparerai le titre RNCP 6 « Concepteur développeu
 
 > **In English.** Student at 42 Marseille, looking for an internship or an apprenticeship as a full-stack or AI developer
 > from April 2027, around Aix-Marseille. I build tools that plug Claude into real software, and I ship them. Portfolio and
-> CV: [mateosan.fr](https://mateosan.fr).
+> CV: [mateosan.fr](https://mateosan.fr). Full English version: [README.en.md](README.en.md).
 
 ## Ce que je sais faire, et où le voir
 
