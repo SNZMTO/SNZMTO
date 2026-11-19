@@ -20,10 +20,9 @@ Aix-Marseille. Ensuite, je préparerai le titre RNCP 6 « Concepteur développeu
 | --- | --- |
 | Un serveur MCP en production : SDK officiel, Streamable HTTP, MCP Apps | [honear-mcp](https://github.com/SNZMTO/honear-mcp), en ligne sur [mcp.honear.fr](https://mcp.honear.fr) : [`serveurs/public.py`](https://github.com/SNZMTO/honear-mcp/blob/main/src/honear_mcp/serveurs/public.py) |
 | Du TypeScript strict et du temps réel | [honear](https://github.com/SNZMTO/honear) : [`src/reseau/ligne.ts`](https://github.com/SNZMTO/honear/blob/main/src/reseau/ligne.ts), le WebSocket et ses limites |
-| Des tests qui tiennent l'architecture | [`tests/sources.test.ts`](https://github.com/SNZMTO/honear/blob/main/tests/sources.test.ts) et [`tests/test_sources.py`](https://github.com/SNZMTO/honear-mcp/blob/main/tests/test_sources.py) : un test rouge, c'est une règle enfreinte |
 | Une mise en production durcie | [`deploiement/compose.yaml`](https://github.com/SNZMTO/honear/blob/main/deploiement/compose.yaml) : lecture seule, aucune capacité Linux, aucun port publié ; la CI à chaque envoi |
 | Un serveur Linux tenu pas à pas | [homelab](https://github.com/SNZMTO/homelab) : SSH par clé, pare-feu, [fail2ban vérifié jusque dans le noyau](https://github.com/SNZMTO/homelab/blob/main/docs/phase1-fail2ban.md) |
-| Travailler avec Claude Code | [DIciELa](https://github.com/SNZMTO/DIciELa) : [`CLAUDE.md`](https://github.com/SNZMTO/DIciELa/blob/main/CLAUDE.md), ses procédures et [un garde-fou testé](https://github.com/SNZMTO/DIciELa/blob/main/Tools/garde-unity.test.js) |
+| Travailler avec Claude Code | [DIciELa](https://github.com/SNZMTO/DIciELa) : [`CLAUDE.md`](https://github.com/SNZMTO/DIciELa/blob/main/CLAUDE.md), ses procédures et [son garde-fou](https://github.com/SNZMTO/DIciELa/blob/main/.claude/hooks/garde-unity.js) |
 
 ## Deux projets
 
@@ -34,13 +33,13 @@ Aix-Marseille. Ensuite, je préparerai le titre RNCP 6 « Concepteur développeu
       <h3><a href="https://github.com/SNZMTO/honear-mcp">honear-mcp</a></h3>
       Le connecteur de Honear pour Claude : on demande une playlist de blind test, le serveur retrouve chaque titre chez
       Deezer, écarte ce qui se joue mal et rend le lien de la partie, ou la fait jouer dans la conversation. Python, SDK
-      MCP officiel, Pydantic, Docker, plus de 450 tests.
+      MCP officiel, Pydantic, Docker.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/SNZMTO/honear"><img src="images/honear.svg" alt="Honear : la platine de l'accueil sur le meuble en noyer"></a>
       <h3><a href="https://github.com/SNZMTO/honear">honear</a></h3>
       Le blind test multijoueur qui joue ces listes, en ligne sur <a href="https://honear.fr">honear.fr</a> : un écran pour
-      la tablée, un téléphone chacun. TypeScript strict, WebSocket, plus de 500 tests, Docker durci, registre RGPD.
+      la tablée, un téléphone chacun. TypeScript strict, WebSocket, Docker durci, registre RGPD.
     </td>
   </tr>
 </table>
@@ -51,8 +50,8 @@ le C# dans un cadre que j'ai posé ; [homelab](https://github.com/SNZMTO/homelab
 
 ## Comment je travaille avec Claude
 
-- **Claude Code écrit l'essentiel du code et des tests.** Les commits sont co-signés, et chaque dépôt le dit.
-- **Je conçois et je tranche** : le produit, l'architecture, et les règles que les tests vérifient.
+- **Claude Code écrit l'essentiel du code.** Les commits sont co-signés, et chaque dépôt le dit.
+- **Je conçois et je tranche** : le produit, l'architecture et les règles du code.
 - **J'essaie sur de vrais appareils** : sur Honear, plusieurs bugs ne se voyaient que sur iPhone.
 - **Le cadre est dans le dépôt** : ce qui tient l'assistant d'une session à l'autre (règles, procédures, garde-fou,
   décisions numérotées) se lit dans le `CLAUDE.md` et le dossier `.claude/` de chaque projet.
